@@ -25,7 +25,7 @@ Este proyecto tiene como objetivo analizar los factores que influyen en la evasi
 
 ##  Cómo Ejecutar el Proyecto
 
-1. Abre el archivo [challenger2Telecom.ipynb](./challenger2Telecom.ipynb) en Google Colab o Jupyter Notebook.
+1. Abre el archivo [challenger2Telecom.ipynb](./challenger2Telecom.ipynb) en Google Colab
 2. Ejecuta las celdas paso a paso.
 3. Asegúrate de tener conexión a internet para cargar los datos desde la URL.
 
@@ -66,7 +66,6 @@ Este proyecto tiene como objetivo analizar los factores que influyen en la evasi
 ##  Autor
 
 **Enrique Alfaro**  
-Desafío de Ciencia de Datos – LATAM  
 [GitHub Profile](https://github.com/EnriqueAlfaro77)
 
 
